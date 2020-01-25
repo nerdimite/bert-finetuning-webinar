@@ -5,6 +5,9 @@ This repository contains the code for BERT Fine-tuning using Pytorch and Transfo
 
 In this part, BERT was fine-tuned for Sentiment Analysis using the Transformers library by Hugging Face. Checkout the [notebook](BERT_Finetuning.ipynb) for steps and code implementation.
 
+The recording of the webinar can be accessed 
+[here](https://youtu.be/NoixdExFb7Y)
+
 
 ## References
 https://arxiv.org/abs/1810.04805
