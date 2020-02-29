@@ -8,6 +8,12 @@ In this part, BERT was fine-tuned for Sentiment Analysis using the Transformers 
 The recording of the webinar can be accessed 
 [here](https://youtu.be/NoixdExFb7Y)
 
+Checkout the code from the other parts here:
+
+- [Part 2](https://github.com/theneuralbeing/bert-web-app)
+- [Part 3](https://github.com/theneuralbeing/bert-deployment-aws)
+
+
 
 ## References
 https://arxiv.org/abs/1810.04805
